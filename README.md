@@ -1,1 +1,1 @@
-![SpyHoodle's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpyHoodle&show_icons=true&theme=transparent)
+🗄️ Most of my projects can now be found on my private Gitea instance, [git.spyhoodle.me](https://g.spyhoodle.me)
