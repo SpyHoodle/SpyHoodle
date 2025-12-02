@@ -3,4 +3,4 @@
 >
 > $\texttt{It means to suffer.}$
 
-― $\text{Mark Z. Danielewski, } \textit{\color{blue}House} \textit{ of Leaves}$.
+― $\text{Zampanò, } \textit{\color{blue}House} \textit{ of Leaves}$.
